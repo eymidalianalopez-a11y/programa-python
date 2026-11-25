@@ -12,7 +12,6 @@ Descripción:
     y su clasificación final.
 
 Autor: Brayan Elias Carrillo Chaparro
-Grupo: XXXXXX
 """
 
 # ---------------------------------------------------------------------------

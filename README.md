@@ -52,4 +52,4 @@ Resumen de sesiones por nivel de compromiso:
 
 ## Autor
 
-Brayan Elias Carrillo Chaparro - Grupo XXXXXX
+Brayan Elias Carrillo Chaparro
